@@ -1,4 +1,4 @@
-# Pagina Freelancer
+# Tarjeta Giratoria
 
 Tarjeta giratoria HTML y CSS
 
@@ -30,4 +30,4 @@ Tarjeta giratoria HTML y CSS
 - GitHub - [Sebastian Granja](https://github.com/sebastgran15)
 - Facebook - [Sebast Granja](https://www.facebook.com/jose.guachangamez/)
   
-# Pagina Freelancer# Tarjeta-giratoria
+#  Tarjeta-giratoria
